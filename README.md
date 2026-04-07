@@ -1,2 +1,4 @@
-# ba-qa-portfolio
-BA-driven QA Engineer portfolio with real-world testing and analysis artifacts
+#  BA & QA Portfolio
+
+This repository showcases my BA-driven QA engineering work through real-world inspired, anonymized portfolio artifacts.
+
